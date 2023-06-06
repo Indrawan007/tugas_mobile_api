@@ -1,6 +1,13 @@
 # tugas_mobile_api
 
-A new Flutter project.
+Tugas Pemrograman Mobile - Interaksi Data
+
+Sumber Data External:
+https://jsonplaceholder.typicode.com/todos/
+
+Nama  : Wawan Indrawan
+NIM   : 60200120047
+Kelas : A
 
 ## Getting Started
 
